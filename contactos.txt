@@ -1,0 +1,3 @@
+ID	Nombre	Número
+1	Luis	+51 999 999 999
+2	Karol	+51 911 111 111
